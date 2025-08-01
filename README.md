@@ -5,33 +5,33 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tajdar-adil" alt="tajdar-adil" /></a> </p>
 
-- 👨‍💻 I’m a passionate **Full Stack Web Developer** from India with expertise in **Drupal CMS**, modern **frontend frameworks**, and backend systems.
+👨‍💻 I’m a passionate **Full Stack Web Developer** from India with expertise in **Drupal CMS**, modern **frontend frameworks**, and backend systems.
 
-- 🏢 I currently work as a **Web Developer at Next Geeks**, where I build performance-oriented websites for real-world clients.
+🏢 I currently work as a **Web Developer at Next Geeks**, where I build performance-oriented websites for real-world clients.
 
-- 🔭 I’m currently working on [Oxfam Pacific NGO Website](https://oxfampacific-test.org/)
+🔭 I’m currently working on [Oxfam Pacific NGO Website](https://oxfampacific-test.org/)
 
-- 🔧 I create fully custom **Drupal themes**, work with **Layout Builder**, and fix advanced rendering & configuration issues.
+🔧 I create fully custom **Drupal themes**, work with **Layout Builder**, and fix advanced rendering & configuration issues.
 
-- 🛠 I’m skilled in **Drush** for command-line site management and automation in Drupal projects.
+🛠 I’m skilled in **Drush** for command-line site management and automation in Drupal projects.
 
-- 💻 On the frontend, I use **React.js**, **jQuery**, **GSAP**, **Framer Motion**, and **Lenis** to build rich, interactive UIs.
+💻 On the frontend, I use **React.js**, **jQuery**, **GSAP**, **Framer Motion**, and **Lenis** to build rich, interactive UIs.
 
-- 🧪 On the backend, I work with **PHP**, **MySQL**, and **Docker** for scalable, secure, and efficient environments.
+🧪 On the backend, I work with **PHP**, **MySQL**, and **Docker** for scalable, secure, and efficient environments.
 
-- 🌱 I’m currently learning **Next.js**, **Node.js**, and **Headless Drupal integrations** to extend into JAMstack and modern decoupled architectures.
+🌱 I’m currently learning **Next.js**, **Node.js**, and **Headless Drupal integrations** to extend into JAMstack and modern decoupled architectures.
 
-- 🤝 I’m open to collaborating on [React.js & Drupal open-source projects](https://github.com/Tajdar001)
+🤝 I’m open to collaborating on [React.js & Drupal open-source projects](https://github.com/Tajdar001)
 
-- 📁 I’m also building my **personal portfolio** (coming soon!) and plan to publish developer-focused blogs very soon.
+📁 I’m also building my **personal portfolio** (coming soon!) and plan to publish developer-focused blogs very soon.
 
-- 💬 Ask me about **Drupal, React.js, GSAP, Framer Motion, Docker, jQuery, Figma** — I’d love to help!
+💬 Ask me about **Drupal, React.js, GSAP, Framer Motion, Docker, jQuery, Figma** — I’d love to help!
 
-- 📄 Resume: *Coming soon*
+📄 Resume: *Coming soon*
 
-- 📫 How to reach me: **mdtajdaradil001@gmail.com**
+📫 How to reach me: **mdtajdaradil001@gmail.com**
 
-- ⚡ Fun fact: I love turning boring UIs into buttery-smooth animated websites ✨
+⚡ Fun fact: I love turning boring UIs into buttery-smooth animated websites ✨
 
 
 <h3 align="left">Connect with me:</h3>
