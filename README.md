@@ -13,17 +13,17 @@ I'm a passionate **Full Stack Web Developer** with strong expertise in **Drupal 
 I focus on building **fast**, **responsive**, and **scalable** websites that deliver exceptional **user experiences**.
 
 🔹 I create fully custom **Drupal themes**, utilize **Layout Builder**, and resolve complex rendering & configuration issues  
-🔹 Skilled in **Drush** for command-line site management, configuration sync, module/theme automation, and database operations  
+🔹 Skilled in **Drush** for CLI-based Drupal site management and automation  
 🔹 On the frontend, I build rich UI using **React.js**, **jQuery**, **GSAP**, **Framer Motion**, and **Lenis**  
-🔹 On the backend, I work with **PHP**, **MySQL**, and **Docker** for scalable, containerized solutions  
-🔹 I follow **clean code**, **mobile-first design**, and **devops-friendly workflows**
+🔹 On the backend, I work with **PHP**, **MySQL**, and **Docker** for scalable, containerized environments  
+🔹 I believe in **clean code**, **mobile-first design**, and **devops-friendly workflows**
 
 ---
 
 ### 🧰 Tech Stack & Tools
 
 #### 💻 CMS & Backend:
-- Drupal 8 / 9 / 10, PHP, Twig, MySQL, Drush, Composer
+- Drupal 8 / 9 / 10, PHP, Twig, MySQL, Drush, Composer  
 - Docker, Git, REST APIs, DDEV
 
 #### 🎨 Frontend:
@@ -39,9 +39,10 @@ I focus on building **fast**, **responsive**, and **scalable** websites that del
 
 ### 🛠 Featured Projects
 
-| Repository | Description |
-|------------|-------------|
+| Project | Description |
+|--------|-------------|
 | [`Nav-code`](https://github.com/Tajdar001/Nav-code) | A simple HTML-based responsive navigation bar |
+| [🌐 Oxfam Pacific NGO Website](https://oxfampacific-test.org/) | A real-world Drupal 10 website for an international NGO, built using **Gavias Theme** and **Layout Builder** |
 | `More coming soon...` | Including real-world Drupal, React, Docker, and Drush-based builds |
 
 ---
@@ -58,8 +59,8 @@ I focus on building **fast**, **responsive**, and **scalable** websites that del
 
 ### 🤝 Let’s Connect
 
-- 🔗 [LinkedIn – Tajdar Adil](https://linkedin.com/in/tajdar-adil-17513a257)  
-- 🌐 [Portfolio – Coming Soon](https://your-portfolio-link.com)  
+- 🔗 [LinkedIn – Tajdar Adil](https://www.linkedin.com/in/tajdar-adil/)  
+- 🌐 **Portfolio – Coming Soon!**  
 - ✉️ Email: your.email@example.com  
 - 🧑‍💼 Web Developer: [Next Geeks](https://nextgeeks.in)  
 
