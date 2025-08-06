@@ -40,7 +40,7 @@
 <a href="https://www.linkedin.com/in/tajdar-adil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tajdar adil" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23131624/tajdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tajdar" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/tajdar_adil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tajdar_adil" height="40" width="55" /></a>
-<a href="https://www.drupal.org/u/tajdar001" target="_blank" rel="noreferrer"><img align="center" src="https://drupalize.me/sites/default/files/styles/max_800w/public/page_images/wordmark2_blue_rgb.png?itok=QVdrDi8u"alt="tajdar001" width="55" height="30" /></a>
+<a href="https://www.drupal.org/u/tajdar001" target="_blank" rel="noreferrer"><img align="center" src="https://drupalize.me/sites/default/files/styles/max_800w/public/page_images/wordmark2_blue_rgb.png?itok=QVdrDi8u"alt="tajdar001" width="55" height="40" /></a>
 </p>
 
 <h3 align="left">Skills:</h3>
