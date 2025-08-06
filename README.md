@@ -40,6 +40,7 @@
 <a href="https://www.linkedin.com/in/tajdar-adil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tajdar adil" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23131624/tajdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tajdar" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/tajdar_adil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tajdar_adil" height="30" width="40" /></a>
+<a href="https://www.drupal.org/u/tajdar001" target="_blank" rel="noreferrer"><img src="https://drupalize.me/sites/default/files/styles/max_800w/public/page_images/wordmark2_blue_rgb.png?itok=QVdrDi8u"alt="drupal" width="50" height="40" /></a>
 </p>
 
 <h3 align="left">Skills:</h3>
@@ -51,7 +52,7 @@
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a> 
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /> </a> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a> 
-    <a href="https://www.drupal.org/" target="_blank" rel="noreferrer"><img src="https://drupalize.me/sites/default/files/styles/max_800w/public/page_images/wordmark2_blue_rgb.png?itok=QVdrDi8u"alt="drupal" width="50" height="40" /></a> 
+    <a href="https://new.drupal.org/home" target="_blank" rel="noreferrer"><img src="https://drupalize.me/sites/default/files/styles/max_800w/public/page_images/wordmark2_blue_rgb.png?itok=QVdrDi8u"alt="drupal" width="50" height="40" /></a> 
     <a href="https://reactjs.oxrg/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a> 
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" /> </a> </p>
     <a href="https://www.docker.com/" target="_blank"rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /> </a> 
